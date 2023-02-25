@@ -68,7 +68,7 @@ JS에서 사용할 수 있는 타입
 
 - boolean, bigint, null, number, string, symbol, object, undefined
 
-TS에서 사용할 수 있느 ㄴ타입
+TS에서 사용할 수 있는 타입
 
 - JS에서 사용할 수 있는 타입, any(무엇이든 허용), unknown(이 타입을 사용하는 사람이 타입이 무엇인지 선언했는지 확인), never(이 타입은 발생될 수 없다.), void(undefined를 리턴하거나, 리턴값이 없는 함수)
 
